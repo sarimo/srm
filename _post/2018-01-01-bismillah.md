@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bismillah
-date: 2018-04-09
+date: 2018-01-01
 ---
 
 Bismillahirrohmanirrohim.
