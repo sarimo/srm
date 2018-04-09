@@ -1,2 +1,3 @@
 name: Sarimo, go-blog
 markdown: kramdown
+permalink: /go-blog/:year/:month/:day/:title
