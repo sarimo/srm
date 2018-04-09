@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:thin|Crimson+Text');
+@import 'open-color.css';
+
+
+html,
+body {
+    color: var(--oc-gray-7);
+    background: var(--oc-gray-0);
+}
+
+h1 {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-weight: 100;
+    color: var(--oc-gray-8);
+    font-size: 3.3em;
+    padding-top: 13%;
+}
+
+p {
+    text-align: center;
+    font-family: "Crimson Text", serif;
+    font-size: 1.1em;
+}
+
+
+ul {
+    text-align: center;
+    margin-top: 3em;
+}
+
+li {
+    display: inline;
+    padding-right: 1em;
+}
+
+a {
+    color: var(--oc-gray-6);
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--oc-gray-7);
+}
